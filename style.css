@@ -1,0 +1,19 @@
+body  {
+	background-color: #aab4ad;
+	margin: 50px;
+	border: 5px;
+	border-color: blueviolet;
+	border-style: solid;
+	padding: 5px;
+}
+
+h1 
+{color: aqua;
+text-align: center;
+
+}
+
+#endereco {
+	text-align: center;
+}
+
